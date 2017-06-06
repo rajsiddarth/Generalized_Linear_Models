@@ -6,6 +6,5 @@ Implementation of Ridge and Lasso Regression in R(using glmnet) and Python(using
   
   -The features in the data set are self explainatory.Please look at the dataset for feature description
   
- *The python code also shows the implementation of R in python*
   
  
