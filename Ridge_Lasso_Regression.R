@@ -2,7 +2,7 @@ rm(list = ls(all=TRUE))
 
 #Loading data
 library(RCurl)
-data=read.csv("https://raw.githubusercontent.com/rajsiddarth119/
+data=read.csv("https://raw.githubusercontent.com/rajsiddarth/
                    Generalized_Linear_Models/master/CustomerData.csv",header=T)
 #Checking data
 str(data)
