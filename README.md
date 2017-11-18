@@ -1,6 +1,40 @@
 # Generalized Linear Models:
+## Dataset
+The dataset used has the following variable descriptions.The variable names are self explainatory:
 
-Implementation of Ridge,Lasso Regression and ElasticNet Regularization in R(using glmnet) and Python(using skearn)
+- Customer ID
+
+- City
+
+- NoOfChildren
+
+- MinAgeOfChild
+
+- MaxAgeOfChild
+
+- Tenure
+
+- FrquncyOfPurchase
+
+- NoOfUnitsPurchased
+
+- FrequencyOFPlay
+
+- NoOfGamesPlayed
+
+- NoOfGamesBought
+
+- FavoriteChannelOfTransaction
+
+- FavoriteGame
+
+ TotalRevenueGenerated
+
+
+
+
+
+CustomerID,City,NoOfChildren,MinAgeOfChild,MaxAgeOfChild,Tenure,FrquncyOfPurchase,NoOfUnitsPurchased,FrequencyOFPlay,NoOfGamesPlayed,NoOfGamesBought,FavoriteChannelOfTransaction,FavoriteGame,TotalRevenueGenerated
 
 *Objective is to predict the Total Revenue generated from a particular customer*
   
