@@ -38,6 +38,16 @@ Ridge regression is for L2 normalization of the weights.The hyperparameter <a hr
  
  ![Ridge Regression Cost function](https://github.com/rajsiddarth/Generalized_Linear_Models/blob/master/images/ridge_cost.JPG)
 
+## Lasso Regression
+Hyperparameter :<a href="https://www.codecogs.com/eqnedit.php?latex=\Lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Lambda" title="\Lambda" /></a> 
+
+![Lasso_Regression_cost](https://github.com/rajsiddarth/Generalized_Linear_Models/blob/master/images/lasso_cost.JPG)
+
+## Elastic Net Regression
+Hyperparameter:<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha" title="\alpha" /></a>,<a href="https://www.codecogs.com/eqnedit.php?latex=\Lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Lambda" title="\Lambda" /></a> 
+![Elastic Net Regression](https://github.com/rajsiddarth/Generalized_Linear_Models/blob/master/images/elastic_net.JPG)
+
+
 ## Packages used
 
 -  glmnet in R
