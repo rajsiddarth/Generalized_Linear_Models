@@ -36,7 +36,7 @@ The dataset used has the following variable descriptions.The variable names are 
 ## Ridge Regression
 Ridge regression is for L2 normalization of the weights.The hyperparameter <a href="https://www.codecogs.com/eqnedit.php?latex=\Lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Lambda" title="\Lambda" /></a> is used for tuning the algorithm which is the cost for L2-normalization of the weights.The cost function is given below.
  
- ![Ridge Regression Cost function](Generalized_Linear_Models/images/ridge_cost.JPG)
+ ![Ridge Regression Cost function](https://github.com/rajsiddarth/Generalized_Linear_Models/blob/master/images/ridge_cost.JPG)
 
 ## Packages used
 
