@@ -32,9 +32,15 @@ The dataset used has the following variable descriptions.The variable names are 
 
 ## Objective
  Our Objective is to predict the Total Revenue generated from a particular customer using the implementations of Ridge,Lasso and Elastic net regression which is a combination of Ridge and Lasso Regression algorithms.
- 
+
+## Ridge Regression
+Ridge regression is for L2 normalization of the weights.The hyperparameter <a href="https://www.codecogs.com/eqnedit.php?latex=\Lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Lambda" title="\Lambda" /></a>
+
 ## Packages used
 
 -  glmnet in R
 -  sklearn in Python 
-  
+ 
+
+ 
+ 
